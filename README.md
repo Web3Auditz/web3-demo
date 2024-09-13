@@ -18,24 +18,13 @@ This is going to be the overview of the project
 
 ## Features
 
-- Authentication
-- Project Tracking
-- Account Management
-- Push Notifications
+
 
 ## Services
-- Backend - [Supabase](https://supabase.com/)
-- Frontend - [Flutter](https://flutter.dev/)
-- Push Notification - [FCM](https://firebase.google.com/docs/cloud-messaging/)
+
 
 ## Packages
 
-- [supabase_flutter](https://pub.dev/packages/supabase_flutter)
-- [hooks_riverpod](https://pub.dev/packages/hooks_riverpod)
-- [firebase_messaging](https://pub.dev/packages/firebase_messaging)
-- [firebase_core](https://pub.dev/packages/firebase_core)
-- [flutter_screenutil](https://pub.dev/packages/fflutter_screenutil)
-- [get_it](https://pub.dev/packages/get_it)
 
 
 
